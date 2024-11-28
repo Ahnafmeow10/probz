@@ -1,0 +1,15 @@
+{
+    "name": "problem-solver",
+    "version": "1.0.0",
+    "description": "A funny problem solver website.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.21.1"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": []
+}
